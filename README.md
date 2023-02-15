@@ -6,7 +6,7 @@ This work is licensed under the GNU General Public Licence wich allows any type 
 
 Visit the other component of the project available on a linked repository ( https://github.com/Matfayt/autonomusberry ), concerning the use of Raspberry Pi and PureData as an input of a modular sequencer.
 
-The schematic of the sequencer are available in Eagle file format or in pdf.
+The schematic of the sequencer are available in Autodesk Fusion 360 file format or in pdf.
 
 ---------------
 
