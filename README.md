@@ -2,6 +2,7 @@
 
 Arduino code for an 8 step 3 tracks sequencer following Eurorack specifications. This sequencer is providing gate output signal with a duty defined by the user, and 3 distinct Control Voltages Channels.
 This code is part of an academic student research about modular systems and ATMega implementation.
+
 This work is licensed under the GNU General Public Licence wich allows any type of use of this code except distributing closed source versions.
 
 Visit the other component of the project available on a linked repository ( https://github.com/Matfayt/autonomusberry ), concerning the use of Raspberry Pi and PureData as an input of a modular sequencer.
