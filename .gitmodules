@@ -1,0 +1,3 @@
+[submodule "autonomusberry"]
+	path = autonomusberry
+	url = https://github.com/Matfayt/autonomusberry
