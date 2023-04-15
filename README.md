@@ -34,7 +34,7 @@ The schematic of the sequencer are available in Autodesk Fusion 360 file format 
 
 ---------------
 
-This project could would not be born without the documentation and tutorials available on :
+This project wouldn't be born without the documentation and tutorials available on :
 
 https://www.locoduino.org/
 
